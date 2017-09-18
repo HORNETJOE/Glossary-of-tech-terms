@@ -1,14 +1,14 @@
 # Glossary-of-tech-terms
 
 ## The 10 key SCRUM terms
-* SCRUM term 1
-  * infomation
+* SCRUM Master
+  * The SCRUm Master is a role in the SCRUM that a member of the group takes up and their role is to guide the group in the right direction through helping them and informing them on their stories. 
   
-* SCRUM term 2
-  * infomation
+* Sprint
+  * A sprint is a period of time that contains the SCRUM events and activities. these sprints are contuined for a number of days untill they end.
   
-* SCRUM term 3
-  * infomation
+* SCRUM
+  * The SCRUM itself is a method of completeing complex tasks in groups of two or more. the SCRUM uses group activites and events to divide the task into managable sizes for each team memeber to handle.
   
 * SCRUM term 4
   * infomation
