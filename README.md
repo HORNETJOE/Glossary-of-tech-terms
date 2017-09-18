@@ -23,7 +23,7 @@
   * SCRUM Board is a board containing infomation in the form of visual infomation for the team to use to understand their tasks and objectives.
   
 * SCRUM values
-  * SCRUM Values are Values that make up the SCRUM frame work
+  * SCRUM Values are Values that make up the SCRUM frame work; commitment, focus, openness, respect and courage.
   
 * SCRUM term 9
   * infomation
