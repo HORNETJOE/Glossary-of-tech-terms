@@ -14,10 +14,10 @@
   * Sprint planning is where the team will plan to create a Sprint by creating the Sprint Backlog
   
 * Ready
-  * this is a sheard understadning amoung the group that 
+  * This is a sheard understadning amoung the group that 
   
 * Increment
-  * increment is when a peice of software adds to another increment or more, to create a product.
+  * Increment is when a peice of software adds to another increment or more, to create a product.
   
 * SCRUM Board
   * SCRUM Board is a board containing infomation in the form of visual infomation for the team to use to understand their tasks and objectives.
@@ -25,8 +25,8 @@
 * SCRUM values
   * SCRUM Values are Values that make up the SCRUM frame work; commitment, focus, openness, respect and courage.
   
-* SCRUM term 9
-  * infomation
+* Definition of Done
+  * A shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Development Team.
   
-* SCRUM term 10
-  * infomation
+* Increment
+  * A piece of working software that adds to previously created Increments, where the sum of all Increments -as a whole - form a product.
