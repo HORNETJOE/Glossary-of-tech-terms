@@ -38,3 +38,9 @@
   
 * Procedural
   * Relating to an established or official way of doing something.
+  
+* Object oriented
+  * Object-oriented programming is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+
+* Event-driven
+  *event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses).
