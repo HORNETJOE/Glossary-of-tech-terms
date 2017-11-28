@@ -35,3 +35,6 @@
   
 * Algorithm
   * A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+  
+* Procedural
+  * Relating to an established or official way of doing something.
