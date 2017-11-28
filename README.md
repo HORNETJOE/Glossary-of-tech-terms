@@ -33,5 +33,5 @@
 * Debugging
   * debugging is when the creator of the program (or another programmer) will search for bugs (errors) in the application in order to     seek them out and fix them or remove them.
   
-*algorithm
-  *a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+* Algorithm
+  * A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
