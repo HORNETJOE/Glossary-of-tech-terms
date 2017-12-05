@@ -36,6 +36,9 @@
 * Algorithm
   * A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
   
+* Process of building a application using algroithm
+  * When building a application most of the time a algroithm is used to desgin and plan the application before creating it. The algroithm can come in any forms however one good example of a algroithm used during development and planning would be a flowchart. The flowchart shows a visual example of what the application should do and how it "flows".
+  
 * Procedural
   * Relating to an established or official way of doing something.
   
