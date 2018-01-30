@@ -28,9 +28,9 @@
 ### Definition of Done
   * A shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Development Team.
   
-###Increment
+### Increment
   * A piece of working software that adds to previously created Increments, where the sum of all Increments, as a whole, form a product.
-###Debugging
+### Debugging
   * debugging is when the creator of the program (or another programmer) will search for bugs (errors) in the application in order to     seek them out and fix them or remove them. Debugging can be commonly seen when code is run is most IDE. For example, when code I run which does not work. The IDE will output which line the code stopped working to allow the user to find the error easier.
   
 ### Algorithm
