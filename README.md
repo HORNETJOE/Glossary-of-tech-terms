@@ -23,7 +23,7 @@
   * SCRUM Board is a board containing information in the form of visual information for the team to use to understand their tasks and objectives.
   
 ### SCRUM values
-  * SCRUM Values are Values that make up the SCRUM frame work; commitment, focus, openness, respect and courage.
+  * SCRUM Values Are Values that make up the SCRUM frame work; commitment, focus, openness, respect and courage.
   
 ### Definition of Done
   * A shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Development Team.
@@ -34,7 +34,7 @@
   * debugging is when the creator of the program (or another programmer) will search for bugs (errors) in the application in order to     seek them out and fix them or remove them. Debugging can be commonly seen when code is run is most IDE. For example, when code I run which does not work. The IDE will output which line the code stopped working to allow the user to find the error easier.
   
 ### Algorithm
-  * A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. An algorithim and big part of building a application. The algorithm could be a complex calculation that is creating in a visual example such as a flowchart, which makes the algorithm easy to understand by following the flowchart. This flowchart is then used as a base for creating the algorithm in the code for the appliation.
+  * A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. An algorithm and big part of building an application. The algorithm could be a complex calculation that is creating in a visual example such as a flowchart, which makes the algorithm easy to understand by following the flowchart. This flowchart is then used as a base for creating the algorithm in the code for the application.
   
 ### Process of building an application using algorithm
   * When building an application most of the time an algorithm is used to design and plan the application before creating it. The algorithm can come in any forms however one good example of a algorithm used during development and planning would be a flowchart. The flowchart shows a visual example of what the application should do and how it "flows".
