@@ -40,7 +40,7 @@
   * When building an application most of the time an algorithm is used to design and plan the application before creating it. The algorithm can come in any forms however one good example of a algorithm used during development and planning would be a flowchart. The flowchart shows a visual example of what the application should do and how it "flows".
   
 ### Procedural
-  * Relating to an established or official way of doing something.
+  * procedurl is a type of programming style that involes the concept of procedures. Which is a sequence of commands that that will be executed.
   
 ### Object oriented
   * Object-oriented programming is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
