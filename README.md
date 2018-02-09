@@ -51,3 +51,6 @@
  ### Writen code to execution
   * There are many steps taken for writen code to be executed into a working program. One of these steps is to design the code first before creating it. This is to make sure that the application will work as a idea before it is created. These can be done through flowcharts  and design briefs that explain what the application will be and how it will be created.
   * The next step is to create the code for the application. This involves alot of trial and error before the code is fully complete. commenting and using coding standards can make the code easier to understand in the future. Once the code is complete with no errors, then the finale step can be echived which is the execution of the code which will produce the final version of the applciation.
+
+### Feasibility report
+A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis.
