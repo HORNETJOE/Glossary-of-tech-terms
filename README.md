@@ -54,3 +54,6 @@
 
 ### Feasibility report
 A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis. The main purpose of a feasibility report is to know the different factors that go into a business venture and see how it will work on the open market and the target audience.
+
+### Epics, stories, versions, and sprints
+Once a software team leaves the familiarity of waterfall or other traditional project management styles they often feel the pain of "how do I structure my work?" Fortunately, agile development uses four clear delivery vehicles to bring structure to any agile project: epics, user stories, versions, and sprints.
