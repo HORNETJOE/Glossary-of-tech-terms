@@ -53,4 +53,4 @@
   * The next step is to create the code for the application. This involves alot of trial and error before the code is fully complete. commenting and using coding standards can make the code easier to understand in the future. Once the code is complete with no errors, then the finale step can be echived which is the execution of the code which will produce the final version of the applciation.
 
 ### Feasibility report
-A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis.
+A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis. The main purpose of a feasibility report is to know the different factors that go into a business venture and see how it will work on the open market and the target audience.
