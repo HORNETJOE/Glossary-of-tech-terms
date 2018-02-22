@@ -58,4 +58,4 @@ A feasibility report is a document that assesses potential solutions to the busi
 ### Epics, stories, versions, and sprints
 Once a software team leaves the familiarity of waterfall or other traditional project management styles they often feel the pain of "how do I structure my work?" Fortunately, agile development uses four clear delivery vehicles to bring structure to any agile project: epics, user stories, versions, and sprints.
 
-https://github.com/HORNETJOE/Glossary-of-tech-terms/blob/master/epics-vs-stories-agile-development.png
+![First Gantt](https://github.com/HORNETJOE/Glossary-of-tech-terms/blob/master/epics-vs-stories-agile-development.png)
