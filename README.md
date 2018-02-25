@@ -63,3 +63,5 @@ The image above is in what order the epics, stories, versions and sprints go.
 
 ### Continuing Professional Development (CPD)
 the process of tracking and documenting the skills, knowledge and experience that you gain both formally and informally as you work, beyond any initial training. It's a record of what you experience, learn and then apply.
+## Why is this important
+CPD is important because is keeps the same level of professional standard during a project or any other work. This keeps work in a neat layout and easy to read for any other user.
