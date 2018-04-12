@@ -55,6 +55,20 @@
 ### Feasibility report
 A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis. The main purpose of a feasibility report is to know the different factors that go into a business venture and see how it will work on the open market and the target audience.
 
+A Feasibility report will contain the following:
+
+#### Proposed Project Description
+This segment is for essentially describing the project that is being worked on and goes into detail about the time contraints and how much the project will cost, not only money but in terms of manpower too..
+
+#### Market Analysis Section
+This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using availible data or by completing surveys. This is done to determine if a venture into this market will be profitable.
+
+#### Technical Feasibility Section
+Technical Feasibility covers the ability to complete the programming and other techinical challanges.
+
+#### Financial Feasibility Section
+The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
+
 ### Epics, stories, versions, and sprints
 Once a software team leaves the familiarity of waterfall or other traditional project management styles they often feel the pain of "how do I structure my work?" Fortunately, agile development uses four clear delivery vehicles to bring structure to any agile project: epics, user stories, versions, and sprints.
 
