@@ -44,9 +44,8 @@ Step 1. Meeting The Client
 
 Before any work can be done the first step is to meet with the client and disccus the plan for the application. These include deadlines and the design for the application.
 
-Step 2. Work in a team or by yourself
-
-After the plan has been made for the applciation, you need to decied if you are going to work as a team and split up the tasks for each member or tackle it by yourself to avoid risks and fault. Each side has the pros and cons so this must be decied early on to avoid problems in the future.
+step 2. Work out the features and requirments for the application
+after meeting with the client and disccusing the appliation you need to figure out what the appliation will do and how it will work to best suit the clients wants and needs.
 
 Step 3. Design
 
