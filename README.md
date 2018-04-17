@@ -38,6 +38,7 @@
   
 ### Process of building an application using algorithm
   * When building an application most of the time an algorithm is used to design and plan the application before creating it. The algorithm can come in any forms however one good example of a algorithm used during development and planning would be a flowchart. The flowchart shows a visual example of what the application should do and how it "flows".
+   * the process of building an application can be simplified into six easy steps:
   
 ### Procedural
   * procedurl is a type of programming style that involes the concept of procedures. Which is a sequence of commands that that will be executed.
