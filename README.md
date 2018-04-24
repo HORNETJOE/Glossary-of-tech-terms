@@ -60,7 +60,11 @@ Step 5. Testing
 
 Testing is important during the last stages of the development process to make sure that the aplication works as intended and to remove any bugs or errors found in the applciation before it is sent to the client.
 
-Step 6. Deliver to the Client
+step 6. Support
+
+The next step if gathering the support needed to keep the application up and running when the application is delivered to the client.
+
+Step 7. Deliver to the Client
 
 The last step is to deliver the applciation to the client.
   
