@@ -44,9 +44,9 @@ Step 1. Meeting The Client
 
 Before any work can be done the first step is to meet with the client and disccus the plan for the application. These include deadlines and the design for the application.
 
-step 2. Work out the features and requirments for the application
+step 2. Work out the requirments for the application
 
-after meeting with the client and disccusing the appliation you need to figure out what the appliation will do and how it will work to best suit the clients wants and needs.
+after meeting with the client and disccusing the appliation you need to figure out what the appliation will do and how it will work to best suits the clients wants and needs.
 
 Step 3. Design
 
