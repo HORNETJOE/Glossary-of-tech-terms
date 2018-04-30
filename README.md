@@ -37,28 +37,28 @@
   * A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. An algorithm and big part of building an application. The algorithm could be a complex calculation that is creating in a visual example such as a flowchart, which makes the algorithm easy to understand by following the flowchart. This flowchart is then used as a base for creating the algorithm in the code for the application.
   
 ### Process of building an application using algorithm
-  * When building an application most of the time an algorithm is used to design and plan the application before creating it. The algorithm can come in any forms however one good example of a algorithm used during development and planning would be a flowchart. The flowchart shows a visual example of what the application should do and how it "flows".
+  * When building an application most of the time an algorithm is used to design and plan the application before creating it. The algorithm can come in any forms however one good example of an algorithm used during development and planning would be a flowchart. The flowchart shows a visual example of what the application should do and how it "flows".
 #### the process of building an application can be simplified into six easy steps:
 
 Step 1. Meeting The Client
 
-Before any work can be done the first step is to meet with the client and disccus the plan for the application. These include deadlines and the design for the application.
+Before any work can be done the first step is to meet with the client and discus the plan for the application. These include deadlines and the design for the application.
 
-step 2. Work out the requirments for the application
+step 2. Work out the requirements for the application
 
-after meeting with the client and disccusing the appliation you need to figure out what the appliation will do and how it will work to best suits the clients wants and needs.
+after meeting with the client and discussing the application you need to figure out what the application will do and how it will work to best suits the clients wants and needs.
 
 Step 3. Design
 
-Now you can focues on making a design of the applciation. This will involve how to looks, feel and works with the user and the clients needs. 
+Now you can focus on making a design of the application. This will involve how to looks, feel and works with the user and the client’s needs. 
 
 Step 4. Development
 
-Development is where you make your app. In the development stage any mistakes that arise could be very costly, both in terms of time and money, so having a clear plan and design before hand is critical.
+Development is where you make your app. In the development stage any mistakes that arise could be very costly, both in terms of time and money, so having a clear plan and design beforehand is critical.
 
 Step 5. Testing
 
-Testing is important during the last stages of the development process to make sure that the aplication works as intended and to remove any bugs or errors found in the applciation before it is sent to the client.
+Testing is important during the last stages of the development process to make sure that the application works as intended and to remove any bugs or errors found in the application before it is sent to the client.
 
 step 6. Support
 
@@ -66,10 +66,10 @@ The next step if gathering the support needed to keep the application up and run
 
 Step 7. Deliver to the Client
 
-The last step is to deliver the applciation to the client.
+The last step is to deliver the application to the client.
   
 ### Procedural
-  * procedurl is a type of programming style that involes the concept of procedures. Which is a sequence of commands that that will be executed.
+  * procedural is a type of programming style that involves the concept of procedures. Which is a sequence of commands that that will be executed.
   
 ### Object oriented
   * Object-oriented programming is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
@@ -77,9 +77,9 @@ The last step is to deliver the applciation to the client.
 ### Event-driven
   * Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses).
   
- ### Writen code to execution
-  * There are many steps taken for writen code to be executed into a working program. One of these steps is to design the code first before creating it. This is to make sure that the application will work as a idea before it is created. These can be done through flowcharts  and design briefs that explain what the application will be and how it will be created.
-  * The next step is to create the code for the application. This involves alot of trial and error before the code is fully complete. commenting and using coding standards can make the code easier to understand in the future. Once the code is complete with no errors, then the finale step can be echived which is the execution of the code which will produce the final version of the applciation.
+ ### Written code to execution
+  * There are many steps taken for written code to be executed into a working program. One of these steps is to design the code first before creating it. This is to make sure that the application will work as an idea before it is created. These can be done through flowcharts and design briefs that explain what the application will be and how it will be created.
+  * The next step is to create the code for the application. This involves a lot of trial and error before the code is fully complete. commenting and using coding standards can make the code easier to understand in the future. Once the code is complete with no errors, then the finale step can be achieved which is the execution of the code which will produce the final version of the application.
 
 ### Feasibility report
 A feasibility report is a document that assesses potential solutions to the business problem or opportunity, and determines which of these are viable for further analysis. The main purpose of a feasibility report is to know the different factors that go into a business venture and see how it will work on the open market and the target audience.
@@ -87,13 +87,13 @@ A feasibility report is a document that assesses potential solutions to the busi
 A Feasibility report will contain the following:
 
 #### Proposed Project Description
-This segment is for essentially describing the project that is being worked on and goes into detail about the time contraints and how much the project will cost, not only money but in terms of manpower too..
+This segment is for essentially describing the project that is being worked on and goes into detail about the time constraints and how much the project will cost, not only money but in terms of manpower too.
 
 #### Market Analysis Section
-This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using availible data or by completing surveys. This is done to determine if a venture into this market will be profitable.
+This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using available data or by completing surveys. This is done to determine if a venture into this market will be profitable.
 
 #### Technical Feasibility Section
-Technical Feasibility covers the ability to complete the programming and other techinical challanges.
+Technical Feasibility covers the ability to complete the programming and other technical challenges.
 
 #### Financial Feasibility Section
 The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
@@ -107,4 +107,4 @@ The image above is in what order the epics, stories, versions and sprints go.
 ### Continuing Professional Development (CPD)
 the process of tracking and documenting the skills, knowledge and experience that you gain both formally and informally as you work, beyond any initial training. It's a record of what you experience, learn and then apply.
 #### Why is this important
-CPD is important because is keeps the same level of professional standard during a project or any other work. This keeps work in a neat layout and easy to read for any other user as well as keep a style that the user can use.
+CPD is important because it keeps the same level of professional standard during a project or any other work. This keeps work in a neat layout and easy to read for any other user as well as keep a style that the user can use.
