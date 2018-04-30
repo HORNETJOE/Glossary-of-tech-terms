@@ -87,7 +87,7 @@ A feasibility report is a document that assesses potential solutions to the busi
 A Feasibility report will contain the following:
 
 #### Proposed Project Description
-This segment is for essentially describing the project that is being worked on and goes into detail about the time constraints and how much the project will cost, not only money but in terms of manpower too.
+This segment is for essentially describing the project that is being worked on and goes into detail about the time constraints and how much the project will cost, not only money but in terms of manpower too. This section will vary depending on the size of the team involve in the development of the applciation.
 
 #### Market Analysis Section
 This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using available data or by completing surveys. This is done to determine if a venture into this market will be profitable.
