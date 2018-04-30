@@ -99,7 +99,7 @@ Technical Feasibility covers the ability to complete the programming and other t
 The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
 
 ### Epics, stories, versions, and sprints
-Once a software team leaves the familiarity of waterfall or other traditional project management styles they often feel the pain of "how do I structure my work?" Fortunately, agile development uses four clear delivery vehicles to bring structure to any agile project: epics, user stories, versions, and sprints.
+Once a software team leaves the familiarity of waterfall or other traditional project management styles they often feel the pain of "how do I structure my work?" Fortunately, agile development uses four clear delivery vehicles to bring structure to any agile project: epics, user stories, versions, and sprints. an example of a user story being reviewed would be a user story from the ZSL project which would say "Add Educational Content into the ZSL project". This story will go through the client and they will see if these story meet their requirement. this story when completed will builder up to an epic which would be the main objective of the project which will be main gameplay elements and features of the application. These stories are completed in sprints. these then go through testing and reviewing. This is then repeated until the client is happy with the outcome.
 
 ![First Gantt](https://github.com/HORNETJOE/Glossary-of-tech-terms/blob/master/epics-vs-stories-agile-development.png)
 The image above is in what order the epics, stories, versions and sprints go.
