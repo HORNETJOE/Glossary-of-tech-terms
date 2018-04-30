@@ -108,3 +108,6 @@ The image above is in what order the epics, stories, versions and sprints go.
 the process of tracking and documenting the skills, knowledge and experience that you gain both formally and informally as you work, beyond any initial training. It's a record of what you experience, learn and then apply.
 #### Why is this important
 CPD is important because it keeps the same level of professional standard during a project or any other work. This keeps work in a neat layout and easy to read for any other user as well as keep a style that the user can use.
+
+### Reviewing user stories
+user stories that are made during a projects starting phase may have to be reviewed later on to make sure that they align with the clients and the developers needs for the finished project. The stories are arranged in order of importance and are arranged into epics. These epics can then be broken down into stories which will make them easier to do. These are then put through testing and reviewing to make sure that they are up to the client or developers standards. This process is repeated until the end of the project and the application is finished.
