@@ -93,7 +93,7 @@ This segment is for essentially describing the project that is being worked on a
 This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic using available data or by completing surveys. This is done to determine if a venture into this market will be profitable.
 
 #### Technical Feasibility Section
-Technical Feasibility covers the ability to complete the programming and other technical challenges.
+Technical Feasibility covers the ability to complete the programming and other technical challenges. This will involve the techincal challenges and problems that will get in the way when developing the application. The Technical Feasibility Section will list those problems so that they can be solved later on or avoided later on in development.
 
 #### Financial Feasibility Section
 The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
